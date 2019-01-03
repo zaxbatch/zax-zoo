@@ -1,0 +1,25 @@
+.animal {
+	width: auto;
+}
+
+.box {
+	display: flex;
+	border: 3px solid black;
+	justify-content: center;
+
+}
+
+.board {
+
+}
+
+#pic {
+	display: none;
+	border: 1px solid blue;
+	text-align: center;	
+
+}
+
+.start {
+	text-align: center;
+}
